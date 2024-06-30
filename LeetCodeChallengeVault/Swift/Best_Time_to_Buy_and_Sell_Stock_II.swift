@@ -1,4 +1,4 @@
-class Solution {
+class Best_Time_to_Buy_and_Sell_Stock_II {
     func maxProfit(_ prices: [Int]) -> Int {
 
         var profit = 0
