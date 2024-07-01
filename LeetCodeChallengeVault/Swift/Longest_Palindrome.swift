@@ -1,7 +1,7 @@
 
 import Foundation
 
-class Solution {
+class Longest_Palindrome{
     func longestPalindrome(_ s: String) -> Int {
         var sDict = [Character: Int]()
 
@@ -11,7 +11,8 @@ class Solution {
 
         var result = 0
         var isOddAdded = false
-        for (char, count) in sDict {
+
+        for (_, count) in sDict {
             if count%2 == 0 {
                 result += count
             } else if isOddAdded == false {

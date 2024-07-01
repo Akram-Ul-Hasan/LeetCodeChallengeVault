@@ -7,7 +7,11 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+<<<<<<< HEAD
 		C5023F3C2C327ECE00487B24 /* Longest_Palindrome.swift in Sources */ = {isa = PBXBuildFile; fileRef = C5023F3B2C327ECE00487B24 /* Longest_Palindrome.swift */; };
+=======
+		C5023F3A2C327DD100487B24 /* Longest_Palindrome.swift in Sources */ = {isa = PBXBuildFile; fileRef = C5023F392C327DD100487B24 /* Longest_Palindrome.swift */; };
+>>>>>>> akram
 		C54BCFF52BD8403300DCB065 /* Reverse_Words_in_a_String.swift in Sources */ = {isa = PBXBuildFile; fileRef = C54BCFF42BD8403300DCB065 /* Reverse_Words_in_a_String.swift */; };
 		C5EA08582BD76CD600EC26C6 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = C5EA08572BD76CD600EC26C6 /* AppDelegate.swift */; };
 		C5EA085A2BD76CD600EC26C6 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = C5EA08592BD76CD600EC26C6 /* SceneDelegate.swift */; };
@@ -25,7 +29,11 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+<<<<<<< HEAD
 		C5023F3B2C327ECE00487B24 /* Longest_Palindrome.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Longest_Palindrome.swift; sourceTree = "<group>"; };
+=======
+		C5023F392C327DD100487B24 /* Longest_Palindrome.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Longest_Palindrome.swift; sourceTree = "<group>"; };
+>>>>>>> akram
 		C54BCFF42BD8403300DCB065 /* Reverse_Words_in_a_String.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Reverse_Words_in_a_String.swift; sourceTree = "<group>"; };
 		C5EA08542BD76CD600EC26C6 /* LeetCodeChallengeVault.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = LeetCodeChallengeVault.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		C5EA08572BD76CD600EC26C6 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
@@ -97,7 +105,11 @@
 				C5EA08772BD776A100EC26C6 /* Isomorphic_Strings.swift */,
 				C5EA08792BD776D500EC26C6 /* Length_of_Last_Word.swift */,
 				C54BCFF42BD8403300DCB065 /* Reverse_Words_in_a_String.swift */,
+<<<<<<< HEAD
 				C5023F3B2C327ECE00487B24 /* Longest_Palindrome.swift */,
+=======
+				C5023F392C327DD100487B24 /* Longest_Palindrome.swift */,
+>>>>>>> akram
 			);
 			path = Swift;
 			sourceTree = "<group>";
@@ -182,7 +194,11 @@
 				C5EA08762BD7767600EC26C6 /* Make_The_String_Great.swift in Sources */,
 				C5EA08702BD7759000EC26C6 /* Maximum_Nesting_Depth_of_the_Parentheses.swift in Sources */,
 				C5EA08742BD7764200EC26C6 /* Minimum_Remove_to_Make_Valid_Parentheses.swift in Sources */,
+<<<<<<< HEAD
 				C5023F3C2C327ECE00487B24 /* Longest_Palindrome.swift in Sources */,
+=======
+				C5023F3A2C327DD100487B24 /* Longest_Palindrome.swift in Sources */,
+>>>>>>> akram
 				C54BCFF52BD8403300DCB065 /* Reverse_Words_in_a_String.swift in Sources */,
 				C5EA085A2BD76CD600EC26C6 /* SceneDelegate.swift in Sources */,
 			);
