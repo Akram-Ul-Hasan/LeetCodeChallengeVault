@@ -1,4 +1,4 @@
-class Solution {
+class Make_The_String_Great {
     func makeGood(_ s: String) -> String {
         var stack: [Character] = []
         for char in s {
