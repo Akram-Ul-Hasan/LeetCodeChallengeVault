@@ -1,4 +1,4 @@
-class Solution {
+class Isomorphic_Strings {
     func isIsomorphic(_ s: String, _ t: String) -> Bool {
         var hashS = [Character: Character](), hashT = [Character: Character]()
         var s = Array(s), t = Array(t)
