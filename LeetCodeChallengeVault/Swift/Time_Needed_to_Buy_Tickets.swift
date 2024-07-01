@@ -1,13 +1,7 @@
-//
-//  Time_Needed_to_Buy_Tickets.swift
-//  LeetCodeChallengeVault
-//
-//  Created by Akram Ul Hasan on 23/4/24.
-//
 
 import Foundation
 
-class Solution {
+class Time_Needed_to_Buy_Tickets{
     func timeRequiredToBuy(_ tickets: [Int], _ k: Int) -> Int {
         var time = 0
         var kthTicket = tickets[k]
