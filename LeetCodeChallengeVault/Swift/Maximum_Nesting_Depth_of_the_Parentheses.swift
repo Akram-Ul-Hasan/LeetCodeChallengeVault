@@ -1,4 +1,4 @@
-class Solution {
+class Maximum_Nesting_Depth_of_the_Parentheses {
     func maxDepth(_ s: String) -> Int {
         let arr = Array(s)
         var depth = 0, maxDepth = 0
