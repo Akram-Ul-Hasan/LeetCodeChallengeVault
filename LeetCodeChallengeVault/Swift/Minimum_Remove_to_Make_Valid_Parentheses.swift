@@ -1,4 +1,4 @@
-class Solution {
+class Minimum_Remove_to_Make_Valid_Parentheses{
     func minRemoveToMakeValid(_ s: String) -> String {
         var stack = [Int]()
         var arrayS =  Array(s)
